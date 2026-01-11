@@ -26,3 +26,4 @@ Open **Wireman** in a floating terminal in Neovim.
 ## Demo
 
 ![](https://raw.githubusercontent.com/preiter93/wireman.nvim/main/assets/demo.png?raw=true)
+(theme: [one-dark-pro](https://github.com/preiter93/wireman/blob/main/wireman-theme/assets/one-dark-pro.toml))
