@@ -22,3 +22,7 @@ Open **Wireman** in a floating terminal in Neovim.
   end
 }
 ```
+
+## Demo
+
+![](https://raw.githubusercontent.com/preiter93/wireman.nvim/main/assets/demo.png?raw=true)
